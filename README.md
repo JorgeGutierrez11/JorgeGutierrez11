@@ -3,7 +3,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Soy desarrollador de software con gran interés por el mundo **backend**: me apasiona diseñar y construir APIs limpias, manejar la lógica del servidor, trabajar con bases de datos y aprender sobre arquitectura escalable. Actualmente profundizo mis conocimientos en **Spring Boot**, **Docker** y otras tecnologías modernas que me permitan crear soluciones robustas.
+Soy desarrollador de software con gran interés por el mundo **backend**: me apasiona diseñar y construir APIs limpias, manejar la lógica del servidor, trabajar con bases de datos y aprender sobre arquitectura escalable. Actualmente profundizo mis conocimientos en **Spring Boot**, **Docker** y otras tecnologías que me permitan crear soluciones robustas.
 
 Además, cuento con experiencia sólida en el desarrollo **frontend**, especialmente con **React.js** y tecnologías web, creando interfaces funcionales, limpias y enfocadas en el usuario. Me gusta que cada componente tenga sentido tanto desde lo técnico como desde lo visual.
 
