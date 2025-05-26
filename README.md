@@ -44,7 +44,7 @@ Además, cuento con experiencia sólida en el desarrollo **frontend**, especialm
 ### 🛍️ E-commerce de Zapatería + Dashboard  
 Plataforma fullstack con gestión de productos, pedidos y usuarios. Panel de administración y autenticación.  
 🛠️ *React + Spring Boot + MySQL*  
-🔗 [Ver repositorio](https://github.com/JorgeGutierrez11/Hotel_Reservation.git)  
+🔗 [Ver repositorio](https://github.com/JorgeGutierrez11/zapateria.git)  
 
 ---
 
