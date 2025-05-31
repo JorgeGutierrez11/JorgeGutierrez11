@@ -41,17 +41,17 @@ Además, cuento con experiencia sólida en el desarrollo **frontend**, especialm
 
 ## 🛠️ Proyectos Destacados
 
-### 🛍️ E-commerce de Zapatería + Dashboard  
-Plataforma fullstack con gestión de productos, pedidos y usuarios. Panel de administración y autenticación.  
-🛠️ *React + Spring Boot + MySQL*  
-🔗 [Ver repositorio](https://github.com/JorgeGutierrez11/zapateria.git)  
-
----
-
 ### 🗓️ Sistema de Gestión de Reservas  
 App para reservas con roles, autenticación y panel administrativo.  
 🛠️ *React + Spring Boot + PostgreSQL*  
 🔗 [Ver repositorio](https://github.com/JorgeGutierrez11/Hotel_Reservation.git)  
+
+---
+
+### 🛍️ E-commerce de Zapatería + Dashboard  
+Plataforma fullstack con gestión de productos, pedidos y usuarios. Panel de administración y autenticación.  
+🛠️ *React + Spring Boot + MySQL*  
+🔗 [Ver repositorio](https://github.com/JorgeGutierrez11/zapateria.git)  
 
 ---
 
