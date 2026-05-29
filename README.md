@@ -9,6 +9,7 @@ Soy desarrollador Full Stack enfocado principalmente en el ecosistema **Java + S
 Me interesa especialmente el desarrollo backend, la arquitectura de software, autenticación, automatización de procesos y construcción de aplicaciones escalables. He trabajado en proyectos enfocados en usuarios reales, integrando autenticación empresarial, despliegue automatizado y flujos operativos completos.
 
 ✨ Me gusta aprender construyendo, enfrentar problemas reales y entender cómo funcionan las cosas más allá de solo hacer que “funcionen”.
+
 ---
 
 # 🚀 Tecnologías
