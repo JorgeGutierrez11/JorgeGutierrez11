@@ -6,10 +6,9 @@
 
 Soy desarrollador Full Stack enfocado principalmente en el ecosistema **Java + Spring Boot** y tecnologías modernas de frontend como **React** y **Next.js**. Disfruto construir aplicaciones completas: desde el diseño de APIs y lógica backend hasta interfaces limpias, funcionales y enfocadas en la experiencia del usuario.
 
-Actualmente trabajo en el desarrollo de sistemas institucionales para la **Universidad Industrial de Santander**, participando en el diseño, implementación y despliegue de soluciones utilizadas por usuarios reales. Me interesa especialmente el desarrollo backend, la arquitectura de software, autenticación, automatización de procesos y construcción de aplicaciones escalables.
+Me interesa especialmente el desarrollo backend, la arquitectura de software, autenticación, automatización de procesos y construcción de aplicaciones escalables. He trabajado en proyectos enfocados en usuarios reales, integrando autenticación empresarial, despliegue automatizado y flujos operativos completos.
 
 ✨ Me gusta aprender construyendo, enfrentar problemas reales y entender cómo funcionan las cosas más allá de solo hacer que “funcionen”.
-
 ---
 
 # 🚀 Tecnologías
