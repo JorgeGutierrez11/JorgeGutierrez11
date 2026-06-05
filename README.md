@@ -51,7 +51,7 @@ Sistema institucional de reservas desarrollado para la Universidad Industrial de
 
 🌐 https://gimnasiouis.com
 
-🔗 [Ver repositorio](#)
+🔗 [Ver repositorio](https://github.com/JorgeGutierrez11/GimnasioUIS)
 
 ---
 
